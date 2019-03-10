@@ -1,53 +1,53 @@
 <resources>
     <string name="app_name">lan-play</string>
 
-    <string name="comd">输入命令</string>
+    <string name="comd">Input the command</string>
 
-    <string name="button">点击测试</string>
+    <string name="button">Click to test</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
-    <string name="infos">一点说明\n
-        如果lib64或者lib其中一个已存在\n
-        则无需再继续\n
-        可以返回连接服务器了\n\n
+    <string name="infos">一Point description\n
+         If one of lib64 or lib already exists\n
+         No need to continue \n
+         Can return to the connection server \n\n
 
-        本APP基于lan-play\n
-        所以需要root权限\n
-        轻触以授予root权限并继续\n
+         This app is based on lan-play\n
+         So you need root privileges\n
+         Tap to grant root privileges and continue \n
 
     </string>
 
     <string name="about">
-        本APP基于lan-play\n\n
-        地址：https://github.com/spacemeowx2/switch-lan-play\n\n
-        感谢大佬做出如此优秀的联机插件\n\n
-        本人不提供任何服务器\n\n
-        有问题？访问下面的链接\n
-        https://github.com/liuzhushaonian/LanPlayAndoird/blob/master/QUEST.md
+       This application is based on lan-play\n\n
+       Source：https://github.com/spacemeowx2/switch-lan-play\n\n
+       Thanks to Daxie for making such an excellent online plugin\n\n
+       I do not provide any server\n\n
+       If you have a problem? Visit the link below\n
+       https://github.com/liuzhushaonian/LanPlayAndoird/blob/master/QUEST.md
 
 
     </string>
 
-    <string name="root_info">root状态:</string>
+    <string name="root_info">root status:</string>
 
-    <string name="lib64_info">lib64状态:</string>
+    <string name="lib64_info">lib64 status:</string>
 
-    <string name="lib_info">lib状态:</string>
+    <string name="lib_info">lib status:</string>
 
-    <string name="get_all">一键配置</string>
+    <string name="get_all">一Key configuration</string>
 
-    <string name="server_name">名字</string>
-    <string name="server_ip">ip:port 或者 域名:port</string>
+    <string name="server_name">Server Name </string>
+    <string name="server_ip">ip:port domain name:port</string>
 
-    <string name="pre">配置</string>
+    <string name="pre">Configuration</string>
 
-    <string name="delete_lib">这项操作是用于删除放置于system下的lib依赖\n\n
-        如果你想卸载本APP\n\n
-        那就执行本操作\n\n
-        依赖删除后将无法正常运行lan-play\n\n
-        当然你可以在配置页面重新配置依赖\n\n
+    <string name="delete_lib">This operation is used to delete the placed system Lib dependency\n\n
+        If you want to uninstall this APP\n\n
+        Then perform this operation\n\n
+        It will not work after relying on deletion lan-play\n\n
+        Of course you can reconfigure dependencies on the configuration page.\n\n
 
     </string>
 
